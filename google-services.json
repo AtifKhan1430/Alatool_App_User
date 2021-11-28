@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "837222830560",
+    "project_id": "alatool-accsessories",
+    "storage_bucket": "alatool-accsessories.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:837222830560:android:d517698c7458ada845db85",
+        "android_client_info": {
+          "package_name": "com.example.alatool_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "837222830560-pkam2a0qh8gsco0324ov55ko6p4nvh2g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2JK5ZeQS8ZCc1DkpKePKsyOHeciYerFk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "837222830560-pkam2a0qh8gsco0324ov55ko6p4nvh2g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
